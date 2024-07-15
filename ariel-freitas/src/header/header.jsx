@@ -1,15 +1,13 @@
 function Header(){
     return(
-    <>
-      <h1>Teste</h1>
-        <nav>
+        <>
+            <h1>Ariel Freitas</h1>
             <ul>
                 <li>Home</li>
                 <li>About</li>
-                <li>Jobs</li>
+                <li>Contact</li>
             </ul>
-        </nav>
-    </>
+        </>
     )
 }
 export default Header
