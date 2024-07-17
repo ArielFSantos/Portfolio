@@ -1,7 +1,12 @@
 function Main(){
     return(
         <>
-            <h1>Main Content</h1>
+            <h1 class="text-2xl font-bold underline">
+                Hello world!
+            </h1>
+            <h2 class="text-red-800" >
+            texto
+            </h2>
         </>
     )
 }
