@@ -1,7 +1,7 @@
 function Main(){
     return(
         <>
-            <h1 class="text-3xl font-bold underline">
+            <h1 class="text-2xl font-bold underline">
                 Hello world!
             </h1>
         </>
