@@ -1,7 +1,7 @@
 import './App.css'
 import Header from './header/header'
 import Footer from './footer/footer'
-import Main from './main/main'
+import Home from './home/Home'
 
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Header/>
-      <Main/>
+      <Home/>
       <Footer/>
     </>
   )
